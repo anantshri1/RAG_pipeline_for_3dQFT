@@ -7,7 +7,7 @@ A retrieval-augmented generation (RAG) system built over a theoretical physics P
 
 ## Motivation
 
-Standard LLMs conflate 3d mirror symmetry with its 2d (Calabi-Yau mirror pairs). The correct definition — an infrared duality exchanging **topological and flavour symmetries**, or equivalently order and disorder operators — requires retrieval from domain-specific literature. This makes the thesis an ideal RAG corpus: the content is real, the failure modes of naive LLMs are known, and the author can evaluate outputs as a domain expert.
+Standard LLMs conflate 3d mirror symmetry with its 2d (Calabi-Yau mirror pairs) cousins. The correct definition — an infrared duality exchanging **topological and flavour symmetries**, or equivalently order and disorder operators — requires retrieval from domain-specific literature. This makes the thesis an ideal RAG corpus: the content is real, the failure modes of naive LLMs are known, and the author can evaluate outputs as a domain expert.
 
 ---
 
